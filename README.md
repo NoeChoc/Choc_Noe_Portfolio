@@ -1,5 +1,5 @@
 # Portfolio de Noé Choc
-https://noechoc.github.io/
+https://noechoc.github.io/Choc_Noe_Portfolio/
 
 ## Technologies
 - **AngularJS 17**
