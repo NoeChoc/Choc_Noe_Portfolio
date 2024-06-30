@@ -1,13 +1,11 @@
-# Fabio Sager Personal Porfolio.
+# Portfolio de Noé Choc
 https://fabiogabrielsager.github.io/
 
-## Technologies 🔨
+## Technologies
 - **AngularJS 17**
 - **Bootstrap**
-## Sections 📋
-- Welcome
-- Porfolio
-- About me
-  - Stack
-  - Studies
+## Parties
+- Accueil
+- Projets
+- A propos de moi
 - Contact
